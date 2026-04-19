@@ -1,3 +1,12 @@
-# capstone.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<title>Capstone Website</title>
+</head>
+<body>
 
-Yo how do i work this thang
+<h1>Welcome to our website</h1>
+<p>This is for our capstone.</p>
+
+</body>
+</html>
